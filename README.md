@@ -1,6 +1,6 @@
 ### Hi there,I'm Givenchy-Coisini 👋
 一个在校前端菜鸟，比较关注前端新兴技术，对大前端有较高兴趣，目前正在自学nodejs
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Givenchy-Coisini?theme=THEME_NAME dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Givenchy-Coisini theme=THEME_NAME dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Givenchy-Coisini/Givenchy-Coisini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
