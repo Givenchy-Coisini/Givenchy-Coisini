@@ -1,7 +1,11 @@
 ### Hi there,I'm Givenchy-Coisini 👋
 一个在校前端菜鸟，比较关注前端新兴技术，对大前端有较高兴趣，目前正在自学nodejs
+
+:construction_worker:  Front End Engineer
+
 Vue & CSS & Node & JavaScript & Electron & uniapp & 微信小程序 & Echarts
 Wechat:16639199716
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Givenchy-Coisini&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
