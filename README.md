@@ -9,6 +9,14 @@ Wechat:16639199716
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Givenchy-Coisini&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/Givenchy-Coisini/imooc-news-fyj">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Givenchy-Coisini&repo=imooc-news-fyj&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<a href="https://github.com/Givenchy-Coisini/my-Blog">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Givenchy-Coisini&repo=my-Blog&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
 <!--
 **Givenchy-Coisini/Givenchy-Coisini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
