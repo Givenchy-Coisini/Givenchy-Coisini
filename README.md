@@ -4,9 +4,10 @@
 :construction_worker:  Front End Engineer
 
 Vue & CSS & Node & JavaScript & Electron & uniapp & 微信小程序 & Echarts
+
 Wechat:16639199716
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Givenchy-Coisini&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Givenchy-Coisini&show_icons=true&theme=merko&repo=imooc-news-fyj&repo=my-Blog)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Givenchy-Coisini/Givenchy-Coisini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
