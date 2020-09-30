@@ -7,6 +7,10 @@ Vue & CSS & Node & JavaScript & Electron & uniapp & 微信小程序 & Echarts
 
 Wechat:16639199716
 
+| 掘金  |
+|  ----  |
+| [点我直达](https://juejin.im/user/2365804755554792)|
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Givenchy-Coisini&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
