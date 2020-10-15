@@ -3,7 +3,7 @@
 
 :construction_worker:  Front End Engineer
 
-Vue & CSS & Node & JavaScript & Electron & uniapp & 微信小程序 & Echarts & Linunx
+Vue & CSS & Node & JavaScript & Electron & uniapp & 微信小程序 & Echarts & Linux
 
 Wechat:16639199716
 
