@@ -1,9 +1,9 @@
 ### Hi there,I'm Givenchy-Coisini 👋
-一个在校前端菜鸟，比较关注前端新兴技术，对大前端有较高兴趣，目前正在自学nodejs、Linux
+一个在校前端菜鸟，比较关注前端新兴技术，对大前端有较高兴趣，目前正在自学nodejs、Linux、React
 
 :construction_worker:  Front End Engineer
 
-Vue & CSS & Node & JavaScript & Electron & uniapp & 微信小程序 & Echarts & Linux
+Vue & React & CSS & Node & JavaScript & Electron & uniapp & 微信小程序 & Echarts & Linux
 
 Wechat:16639199716
 
