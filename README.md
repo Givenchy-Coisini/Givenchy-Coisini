@@ -6,6 +6,7 @@
 - 💬 加个微信：16639199716
 - 🏡 关注公众号：[给npy的前端秘籍]
 - 📫 加入我们：简历发至 fyj@aesen.cc
+- 📫 个人博客：[https://givenchy-coisini.github.io/](https://givenchy-coisini.github.io/)
 - 💬 向我询问：如有问题可以[点击](https://github.com/Givenchy-Coisini/Givenchy-Coisini.github.io/issues)（Ask me about）
 - 📚 推荐掘金小册：[《Electron + React 从 0 到 1 实现简历平台实战》](https://juejin.cn/book/6950646725295996940)
 - ⚡ 选一城终老，遇一人白首！
