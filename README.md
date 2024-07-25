@@ -1,5 +1,5 @@
 ### Hi there,I'm FYJ 👋
-付永杰，曾就职于360奇舞团，掘金lv2作者，投身开源，微信公众号《给npy的前端秘籍》，坚持用心写文章。你可以在这里找到我：[github](https://github.com/Givenchy-Coisini)、[博客](https://givenchy-coisini.github.io/)、[掘金](https://juejin.cn/user/2365804755554792)
+付永杰，曾就职于360奇舞团，掘金lv5作者，投身开源，微信公众号《给npy的前端秘籍》，坚持用心写文章。你可以在这里找到我：[github](https://github.com/Givenchy-Coisini)、[博客](https://givenchy-coisini.github.io/)、[掘金](https://juejin.cn/user/2365804755554792)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Givenchy-Coisini.Givenchy-Coisini)
